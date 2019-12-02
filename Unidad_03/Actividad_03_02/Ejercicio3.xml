@@ -3,22 +3,22 @@
 <carta>
         <pizza nombre="Barbacoa" precio="8">
                  
-                  <ingredientes>Salsa Barbacoa,Pollo,Bacon,Jamón,Ternera</ingredientes>
+                <ingredientes>Salsa Barbacoa,Pollo,Bacon,Jamón,Ternera</ingredientes>
 
         </pizza>
         <pizza nombre="Hawaiana" precio="7">
 
-                  <ingredientes>Tomate,Mozarella,Jamón,Piña,Queso</ingredientes>
+                <ingredientes>Tomate,Mozarella,Jamón,Piña,Queso</ingredientes>
 
         </pizza>
         <pizza nombre="4 Quesos" precio="7">
 
-                  <ingredientes>Tomate,Mezcla de 4 quesos</ingredientes>
+                <ingredientes>Tomate,Mezcla de 4 quesos</ingredientes>
 
         </pizza>
         <pizza nombre="Margarita" precio="6">
 
-                  <ingredientes>Tomate,Jamón,Queso</ingredientes>
+                <ingredientes>Tomate,Jamón,Queso</ingredientes>
 
         </pizza>
 
