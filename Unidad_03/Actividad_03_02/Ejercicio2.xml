@@ -6,6 +6,7 @@ xmlns:out="http://www.lmsgi.net/outlook"
 xmlns:evo="http://www.lmsgi.net/evolution">
 
 <correos>
+
     <thu:mensaje>
         <thu:destinatario>Luis Hevia</thu:destinatario>
         <thu:origen>Pedro Montes</thu:origen>
@@ -29,4 +30,5 @@ xmlns:evo="http://www.lmsgi.net/evolution">
         <evo:cuerpo>Resumen de tu compra</evo:cuerpo>
         <evo:adjuntos>scaner</evo:adjuntos>
     </evo:mensaje>
+
 </correos>
