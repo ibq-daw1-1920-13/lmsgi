@@ -7,12 +7,12 @@
             <com:primero>
                 sopa 
                 <opcion tipo="sobre"/>
-            <com:primero>
+            </com:primero>
 
             <com:segundo>
                 chuleta    
                 <opcion tipo="cerdo"/>
-            <com:segundo>
+            </com:segundo>
 
             <postre>
                 flan
