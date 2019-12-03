@@ -15,8 +15,9 @@
             <com:segundo>
 
             <postre>
-            flan
-            <opcion tipo="huevo"/>
+                flan
+                <opcion tipo="huevo"/>
+            </postre>
         </com:comida>
 
         <bebida tamaño="0.5">agua</bebida>
@@ -37,10 +38,10 @@
                 <opcion tipo="ternera">
             </com:segundo>
 
-            <com:postre>
+            <postre>
                 arroz con leche
                 <opcion tipo="casero"/>
-            </com:postre>
+            </postre>
         </com:comida>
 
         <bebida tamaño="1">Rioja</bebida>
