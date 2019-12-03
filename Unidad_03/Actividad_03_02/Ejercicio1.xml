@@ -18,8 +18,9 @@
                 flan
                 <opcion tipo="huevo"/>
             </postre>
-        </com:comida>
 
+        </com:comida>
+        
         <bebida tamaño="0.5">agua</bebida>
       
     </com:menu>
