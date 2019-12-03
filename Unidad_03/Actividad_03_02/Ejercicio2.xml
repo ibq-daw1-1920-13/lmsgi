@@ -11,7 +11,7 @@ xmlns:evo="http://www.lmsgi.net/evolution">
         <thu:origen>Pedro Montes</thu:origen>
         <thu:asunto>Pedido</thu:asunto>
         <thu:cuerpo>La suma de todo tu pedido asciende a este importe</thu:cuerpo>
-        <thu:adjuntos></thu:adjuntos>
+        <thu:adjuntos>foto</thu:adjuntos>
     </thu:mensaje>
 
     <out:mensaje>
@@ -19,7 +19,7 @@ xmlns:evo="http://www.lmsgi.net/evolution">
         <out:origen>Alberto García</out:origen>
         <out:asunto>Reunión</out:asunto>
         <out:cuerpo>Recuerda que es este lunes</out:cuerpo>
-        <out:adjuntos></out:adjuntos>
+        <out:adjuntos>hoja</out:adjuntos>
     </out:mensaje>
 
     <evo:mensaje>
@@ -27,6 +27,6 @@ xmlns:evo="http://www.lmsgi.net/evolution">
         <evo:origen>Luis Olivares</evo:origen>
         <evo:asunto>Factura</evo:asunto>
         <evo:cuerpo>Resumen de tu compra</evo:cuerpo>
-        <evo:adjuntos></evo:adjuntos>
+        <evo:adjuntos>scaner</evo:adjuntos>
     </evo:mensaje>
 </correos>
