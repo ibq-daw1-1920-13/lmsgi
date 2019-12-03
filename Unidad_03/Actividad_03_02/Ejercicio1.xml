@@ -20,12 +20,12 @@
             </postre>
 
         </com:comida>
-        
+
         <bebida tamaño="0.5">agua</bebida>
       
     </com:menu>
 
-    </menú>
+    
     <com:menu precio="25" tarjeta="si">
 
         <com:comida>
