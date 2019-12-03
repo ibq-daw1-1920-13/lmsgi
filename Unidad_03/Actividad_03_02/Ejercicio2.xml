@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mail:document xmlns:mail="http://www.lmsgi.net/mail"
+xmlns:thu="http://www.lmsgi.net/thunderbird"
+xmlns:out="http://www.lmsgi.net/outlook"
+xmlns:evo="http://www.lmsgi.net/evolution">
+
+<correos>
+    <thu:mensaje>
+        <thu:destinatario>Luis Hevia</thu:destinatario>
+        <thu:origen>Pedro Montes</thu:origen>
+        <thu:asunto>Pedido</thu:asunto>
+        <thu:cuerpo>La suma de todo tu pedido asciende a este importe</thu:cuerpo>
+        <thu:adjuntos></thu:adjuntos>
+    </thu:mensaje>
+
+    <out:mensaje>
+        <out:destinatario>Juan Nuñez</out:destinatario>
+        <out:origen>Alberto García</out:origen>
+        <out:asunto>Reunión</out:asunto>
+        <out:cuerpo>Recuerda que es este lunes</out:cuerpo>
+        <out:adjuntos></out:adjuntos>
+    </out:mensaje>
+
+    <evo:mensaje>
+        <evo:destinatario>Juan Herrador</evo:destinatario>
+        <evo:origen>Luis Olivares</evo:origen>
+        <evo:asunto>Factura</evo:asunto>
+        <evo:cuerpo>Resumen de tu compra</evo:cuerpo>
+        <evo:adjuntos></evo:adjuntos>
+    </evo:mensaje>
+</correos>
