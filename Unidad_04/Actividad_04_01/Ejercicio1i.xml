@@ -3,15 +3,16 @@
 <!ELEMENT sistemaSolar (cuerpo*)>
 <!ELEMENT cuerpo ((planeta|satelite|asteroide)+)>
 <!ELEMENT planeta (#PCDATA)>
-<!ELEMENTsatelite (#PCDATA)>
+<!ELEMENT satelite (#PCDATA)>
 <!ELEMENT asteroide (#PCDATA)>
 ]>
 
 <sistemaSolar>
+    
     <cuerpo>
         <planeta>Tierra</planeta>
         <satelite>Luna</satelite>
-</cuerpo>
-<asteroide>Ceres</asteroide>
+    </cuerpo>
+ 
 </sistemaSolar>
 
