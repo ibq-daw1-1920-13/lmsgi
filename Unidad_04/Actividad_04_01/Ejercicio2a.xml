@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE marcadores [
-<!ELEMENT marcadores (marcador)>
+<!ELEMENT marcadores (marcador)+>
 <!ELEMENT marcador (nombre, uri)>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT uri (#PCDATA)>
@@ -12,6 +12,12 @@
         <nombre>W3C</nombre>
         <uri>http://www.w3.org/</uri>
     </marcador>
+
+    <marcador>
+        <nombre>Web HypertextApplicationTechnologyWorkingGroup(WHATWG)</nombre>
+        <uri>http://www.whatwg.org/</uri>
+    </marcador>
+        
 
 
 </marcadores>
