@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE contabilidad [
-<!ELEMENT contabilidad (apunte)+>
+<!ELEMENT contabilidad (apunte+)>
 <!ELEMENT apunte ((ingreso|gasto),fecha,cantidad,concepto)>
 <!ELEMENT ingreso EMPTY>
 <!ELEMENT gasto EMPTY>
