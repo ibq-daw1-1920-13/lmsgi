@@ -4,5 +4,5 @@
   <!ATTLIST persona nombre CDATA #IMPLIED>
 ]>
 
-    <persona nombre = "Marina"/>
+    <persona nombre = "Alberto"/>
     
