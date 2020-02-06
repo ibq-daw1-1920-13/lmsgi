@@ -8,7 +8,7 @@
 
     <futbol>
         <jugador nombre="Alfredo Di Stéfano" codigo="Numero1"/>
-        <jugador nombre="Edson Arantes do Nascimento_Pelé"codigo="Numero2" />
-        <jugador nombre="Diego Armando Maradona" codigo="-Numero3" />
+        <jugador nombre="Edson Arantes do Nascimento_Pelé" codigo="Numero2" />
+        <jugador nombre="Diego Armando Maradona" codigo="Numero3" />
         <jugador nombre="Johan Cruyff" codigo="Numero4" />
     </futbol>
