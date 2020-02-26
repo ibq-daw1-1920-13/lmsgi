@@ -1,21 +1,21 @@
 body{	color:#0000FF;
-		font-weight: 16px;  
+		font-size: 16px;  
 		font-family: Georgia, Cambria, serif;
 		background-color: #CCFFCC}
 
 
 h1,h2 { color: #FF0000; 
-		font-weight: 32px;  
+		font-size: 32px;  
 		font-family: Verdana, Calibri, sans-serif;} 
 
 
 h2 {	color: #AA0000; 
-		font-weight: 24px;}
+		font-size: 24px;}
 
 	
 spam {	color: #006600;}
 
-strong{ font-weight: 20px; }
+strong{ font-size: 20px; }
 
 em { 	color:#FFF;
 		background:#000;}
