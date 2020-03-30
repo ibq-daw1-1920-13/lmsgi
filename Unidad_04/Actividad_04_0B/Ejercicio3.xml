@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cv[
+<!ELEMENT cv (presentacion, (datos_academicos | experiencia_laboral)+, (lectura|deportes|otros)*, referencias*)>
+<!ELEMENT presentacion (#PCDATA)>
+<!ELEMENT datos_academicos (#PCDATA)>
+<!ELEMENT experiencia_laboral (#PCDATA)>
+<!ELEMENT lectura (#PCDATA)>
+<!ELEMENT deportes (#PCDATA)>
+<!ELEMENT otros (#PCDATA)>
+<!ELEMENT referencias (#PCDATA)>
+]>
+
+<cv>
+
+    <presentacion>Tipo 1</presentacion>
+    <datos_academicos>Universidad de Oviedo</datos_academicos>
+    <experiencia_laboral>Jefa de laboratorio en Applus</experiencia_laboral>
+    <deportes>Pádel</deportes>
+
+</cv>
+
+
