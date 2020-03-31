@@ -1,0 +1,56 @@
+﻿
+body{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    padding-left: 11em;
+    background-color:rgb(224, 221, 221);
+}
+
+nav{
+
+    float: left;
+
+}
+
+
+h1{
+
+    padding: 1%;
+    border: 2px solid gray;
+    border-width: thin;
+    background-color:  white;
+    font-weight: 100;
+}
+
+
+section{
+
+    padding: 2%;
+    border: 2px solid gray;
+    border-width: thin;
+    background-color: white;
+}
+
+#contenido{
+
+    
+}
+
+h3{
+    
+    color: orange;
+}
+
+h4{
+
+    color: green;
+}
+
+h5{
+    color:blue;
+}
+
+a{
+ color: orange;
+}
