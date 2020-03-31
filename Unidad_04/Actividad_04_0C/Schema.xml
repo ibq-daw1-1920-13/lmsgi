@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EmpresaCarpinteros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceShemaLocation="Pedido.xsd">
+
+<Pedidos>
+
+<Sucursales CodigoPedido="J8395718">
+
+	<DireccionEntrega>C/ Santa Justa, nº 4B, Puerta 4, 33208, Gijón, Asturias.</DireccionEntrega>
+
+	<NombreTrabajador>Alberto García Morán</NombreTrabajador>
+
+	<FechaPedido>31/03/2020</FechaPedido>
+
+	<ObservacionesPedido>Urgente</ObservacionesPedido>
+
+	<PlazoRevision>12 días</PlazoRevision>
+
+
+	<Articulos CodigoArt="ABC-123">
+
+		<UnidadesPedidas>2</UnidadesPedidas>
+
+		<PrecioUnidad>400 €/Unidad</PrecioUnidad>
+
+		<ObservacionesArt>Quizás vaya alguna pieza sobrante</ObservacionesArt>
+
+	</Articulos>
+
+
+	<Articulos CodigoArt="AOE-123">
+
+		<UnidadesPedidas>10</UnidadesPedidas>
+
+		<PrecioUnidad>125€/Unidad</PrecioUnidad>
+
+		<ObservacionesArt></ObservacionesArt>
+
+	</Articulos>
+
+</Sucursales>
+
+<Sucursales CodigoPedido="Y7234913">
+
+	<DireccionEntrega>Calle Trabanco, 12, 12345, Oviedo, Asturias.</DireccionEntrega>
+
+	<NombreTrabajador>Saturnino Masculino Singular</NombreTrabajador>
+
+	<FechaPedido>22/12/2019</FechaPedido>
+
+	<ObservacionesPedido></ObservacionesPedido>
+
+	<PlazoRevision>6 días</PlazoRevision>
+
+	<Articulos CodigoArt="BCA-231">
+
+		<UnidadesPedidas>123</UnidadesPedidas>
+
+		<PrecioUnidad>10€/Unidad</PrecioUnidad>
+
+		<ObservacionesArt></ObservacionesArt>
+
+	</Articulos>
+
+</Sucursales>
+
+</Pedidos>
+
+</EmpresaCarpinteros>
+
